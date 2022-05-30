@@ -1,0 +1,40 @@
+.shark {
+   background: url('spritesheet.png') no-repeat -0px -43px;
+   width: 27px;
+   height: 25px;
+}
+.orca {
+   background: url('spritesheet.png') no-repeat -40px -0px;
+   width: 22px;
+   height: 23px;
+}
+.dolphins {
+   background: url('spritesheet.png') no-repeat -19px -0px;
+   width: 20px;
+   height: 21px;
+}
+.conch {
+   background: url('spritesheet.png') no-repeat -0px -0px;
+   width: 18px;
+   height: 22px;
+}
+.spiral {
+   background: url('spritesheet.png') no-repeat -40px -24px;
+   width: 19px;
+   height: 18px;
+}
+.jelly {
+   background: url('spritesheet.png') no-repeat -28px -43px;
+   width: 18px;
+   height: 25px;
+}
+.pearl {
+   background: url('spritesheet.png') no-repeat -47px -43px;
+   width: 15px;
+   height: 15px;
+}
+.angler {
+   background: url('spritesheet.png') no-repeat -0px -23px;
+   width: 24px;
+   height: 19px;
+}

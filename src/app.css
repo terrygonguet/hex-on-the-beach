@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sprite-shark {
+	background: url("/spritesheet.png") no-repeat -0px -43px;
+	width: 27px;
+	height: 25px;
+}
+.sprite-orca {
+	background: url("/spritesheet.png") no-repeat -40px -0px;
+	width: 22px;
+	height: 23px;
+}
+.sprite-dolphins {
+	background: url("/spritesheet.png") no-repeat -19px -0px;
+	width: 20px;
+	height: 21px;
+}
+.sprite-conch {
+	background: url("/spritesheet.png") no-repeat -0px -0px;
+	width: 18px;
+	height: 22px;
+}
+.sprite-spiral {
+	background: url("/spritesheet.png") no-repeat -40px -24px;
+	width: 19px;
+	height: 18px;
+}
+.sprite-jelly {
+	background: url("/spritesheet.png") no-repeat -28px -43px;
+	width: 18px;
+	height: 25px;
+}
+.sprite-pearl {
+	background: url("/spritesheet.png") no-repeat -47px -43px;
+	width: 15px;
+	height: 15px;
+}
+.sprite-angler {
+	background: url("/spritesheet.png") no-repeat -0px -23px;
+	width: 24px;
+	height: 19px;
+}
